@@ -1,0 +1,6 @@
+Module 4 Challenge Analysis
+
+For this assignment, I analyzed school and student data for an entire school district. Using the datasets that were provided, I was able to dig through budget numbers and standardized test scores for both math and reading. I looked at this data on a district-wide and per-school basis; I also analyzed the highest and lowest-performing schools by test score passing rate; math and reading scores by grade level; test scores as they related to both school budget levels and school size; and finally, test scores of charter schools versus district schools. There are many conclusions and comparisons one can make about this data, and these are two that stuck out to me:
+
+•	Test scores for both math and reading actually got worse as school budget spending (per student) increased. As can be seen in the spending_summary data frame, schools that spent less than $585 per student had the highest average math and reading scores, as well as the highest percentage of students that passed those subjects. The average test scores and passing rates progressively decreased for every subsequent spending range.
+•	Charter schools outperformed district schools in all standardized test score measures. Average test scores and passing rates for both math and reading were all higher at charter schools than they were at district schools.
