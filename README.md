@@ -34,33 +34,31 @@ I created a DataFrame summarizing key metrics about each school.
 
 ## Highest-Performing Schools (by % Overall Passing)
 
-- I sorted schools by % Overall Passing in descending order and displayed the top 5 rows.
-- I saved results in a DataFrame called "top_schools".
+I sorted schools by % Overall Passing in descending order and displayed the top 5 rows. I saved results in a DataFrame called "top_schools".
 
 ## Lowest-Performing Schools (by % Overall Passing)
 
-- I sorted schools by % Overall Passing in ascending order and displayed the top 5 rows.
-- I saved results in a DataFrame called "bottom_schools".
+I sorted schools by % Overall Passing in ascending order and displayed the top 5 rows. I saved results in a DataFrame called "bottom_schools".
 
 ## Math Scores by Grade
 
-- I created a DataFrame listing the average math score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+I created a DataFrame listing the average math score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 ## Reading Scores by Grade
 
-- I created a DataFrame listing the average reading score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+I created a DataFrame listing the average reading score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 ## Scores by School Spending
 
-- I created a table that broke down school performance based on average spending ranges (per student).
+I created a table that broke down school performance based on average spending ranges (per student).
 
 ## Scores by School Size
 
-- I created a DataFrame called "size_summary" that broke down school performance based on school size (small, medium, or large).
+I created a DataFrame called "size_summary" that broke down school performance based on school size (small, medium, or large).
 
 ## Scores by School Type
 
-- I created a new DataFrame called "type_summary" showing school performance based on the "School Type".
+I created a new DataFrame called "type_summary" showing school performance based on the "School Type".
 
 ## Conclusion
 
