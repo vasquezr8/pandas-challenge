@@ -68,10 +68,6 @@ In this report, I analyzed various aspects of school performance, including over
 
 - Charter schools outperformed district schools in all standardized test score measures. Average test scores and passing rates for both math and reading were all higher at charter schools than they were at district schools.
 
-## Contributors
-
-- Ryan Vasquez
-
 ## Code Citations
 
 Count items greater than a value in a groupby:
